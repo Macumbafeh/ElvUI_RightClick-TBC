@@ -1,0 +1,8 @@
+## Interface: 30300
+## Author: Bunny
+## Version: 1.0
+## Title: |cffA11313E|r|cffC4C4C4lvUI|r |cffA11313R|r|cffC4C4C4ightClick|r
+## Notes: Enables self-cast on right-click of ElvUI Action Bar buttons.
+## RequiredDeps: ElvUI
+
+RightClick.lua
