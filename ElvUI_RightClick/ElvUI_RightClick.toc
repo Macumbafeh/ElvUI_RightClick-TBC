@@ -1,7 +1,7 @@
 ## Interface: 20400
 ## Author: Bunny
 ## Version: 1.0
-## Title: |cffA11313E|r|cffC4C4C4lvUI|r |cffA11313R|r|cffC4C4C4ightClick|r
+## Title: |cffA11313E|r|cffC4C4C4lvUI|r |cffA11313R|r|cffC4C4C4ight|r |cffA11313C|r|cffC4C4C4lick|r
 ## Notes: Enables self-cast on right-click of ElvUI Action Bar buttons.
 ## RequiredDeps: ElvUI
 
